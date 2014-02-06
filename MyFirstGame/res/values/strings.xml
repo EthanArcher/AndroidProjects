@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newString">Please enter a number between 1 and 10...</string>
+    <string name="submit">Submit</string>
+    <string name="send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="textToSend">Enter text to send</string>
+
+</resources>
